@@ -1,0 +1,47 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  background: #fff8f0;
+  color: #333;
+}
+
+header {
+  background: #ffb84d;
+  color: white;
+  padding: 1rem;
+  text-align: center;
+}
+
+nav a {
+  margin: 0 1rem;
+  text-decoration: none;
+  color: white;
+  font-weight: bold;
+}
+
+#hero {
+  background: #ffe5cc;
+  padding: 2rem;
+  text-align: center;
+}
+
+section {
+  padding: 2rem;
+}
+
+.card {
+  background: white;
+  padding: 1rem;
+  margin: 1rem 0;
+  border-radius: 8px;
+  box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+
+footer {
+  text-align: center;
+  padding: 1rem;
+  background: #ffb84d;
+  color: white;
+}
